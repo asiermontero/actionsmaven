@@ -7,4 +7,8 @@ public class Calculadora {
     public int resta(int a, int b) {
         return a - b;
     }
+
+    public int a(int a) {
+        return a;
+    }
 }
